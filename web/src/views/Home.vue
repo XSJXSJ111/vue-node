@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    欢迎登录
+    欢迎登录111
   </div>
 </template>
 
